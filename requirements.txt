@@ -1,0 +1,11 @@
+# requirements.txt
+
+# Asynchronous programming
+asyncio==3.4.3
+aiohttp==3.7.4
+
+# Testing
+unittest2==1.1.0
+
+# Other
+requests==2.25.1
